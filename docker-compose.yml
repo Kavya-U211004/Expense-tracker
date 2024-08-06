@@ -25,3 +25,5 @@ services:
 # docker push yourusername/expense-tracker-frontend:latest
 # # Push the backend image
 # docker push yourusername/expense-tracker-backend:latest
+
+#$ git config --global http.postBuffer 524288000, then give git push -u origin main if your file size is large
